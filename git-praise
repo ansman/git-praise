@@ -1,2 +1,2 @@
 #!/usr/bin/env sh -e
-git blame "$@"
+exec git blame "$@"
