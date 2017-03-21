@@ -10,7 +10,7 @@ Usage
 -----
 The syntax is exactly the same as for `git blame`.
 
-Try doing `git praise path/to/some/file` or `git help blame` for all options.
+Try doing `git praise path/to/some/file` or `git help praise` for all options.
 
 Installation
 ------------
